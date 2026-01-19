@@ -31,7 +31,7 @@
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<img align='right' width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/1e25da3d-f21b-4be6-9dbd-a0b42e2f8f5f" />
+<!-- <img align='right' width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/1e25da3d-f21b-4be6-9dbd-a0b42e2f8f5f" /> -->
 
 
 <!--
